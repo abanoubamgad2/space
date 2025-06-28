@@ -4,3 +4,4 @@
 *.cmake linguist-detectable=false
 *.swift linguist-detectable=false
 *.html linguist-detectable=false
+*.dart linguist-language=Dart
