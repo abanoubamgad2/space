@@ -1,7 +1,3 @@
 # Ignore non-Dart languages from linguist stats
-*.cpp linguist-detectable=false
-*.c linguist-detectable=false
-*.cmake linguist-detectable=false
-*.swift linguist-detectable=false
-*.html linguist-detectable=false
-*.dart linguist-language=Dart
+* linguist-detectable=false
+*.dart linguist-detectable=true
